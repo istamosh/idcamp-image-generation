@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# local environment variables
+.env
+
 # tests directory
 tests/
