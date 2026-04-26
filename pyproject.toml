@@ -16,7 +16,10 @@ dependencies = [
     "transformers>=5.5.3",
     "torch",
     "torchvision",
-    "torchaudio"
+    "torchaudio",
+    "gradio>=6.13.0",
+    "ftfy>=6.3.1",
+    "ipywidgets>=8.1.8",
 ]
 
 [[tool.uv.index]]
